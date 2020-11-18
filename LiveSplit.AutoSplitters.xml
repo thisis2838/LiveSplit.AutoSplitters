@@ -10361,4 +10361,14 @@
         <Type>Script</Type>
         <Description>Auto Splitting and Load Removal available. (By Micrologist)</Description>
     </AutoSplitter>
+	<AutoSplitter>
+        <Games>
+            <Game>Doomnit: Hell on Teufort</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/thisis2838/asl-doomnit/main/asl-doomnit.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Auto Splitting, Auto Start and Stop available with utilization of game's internal timer. (By 2838)</Description>
+    </AutoSplitter>
 </AutoSplitters>
